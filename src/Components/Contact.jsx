@@ -5,12 +5,13 @@ const Contact = () => {
     <div className="bg-gray-300 p-20">
       <footer class="bg-gray-800 text-white py-8 w-full h-screen p-20">
         <div class="container mx-auto px-4">
-          <div class="flex flex-wrap justify-between mt-40" >
+          <div class="flex flex-wrap justify-between mt-40">
             {/* <!-- Logo and Description --> */}
             <div class="w-full sm:w-1/2 md:w-1/4 mb-6">
               <h2 class="text-xl font-bold mb-2">React Basics</h2>
               <p class="text-gray-400">
-                Experience luxury and comfort at the heart of nature. Your perfect getaway awaits.
+                Experience luxury and comfort at the heart of nature. Your
+                perfect getaway awaits.
               </p>
             </div>
 
@@ -53,7 +54,10 @@ const Contact = () => {
                 <li>1234 Paradise Road, Island</li>
                 <li>
                   Email:{" "}
-                  <a href="mailto:info@hotelodisej.com" class="hover:text-white">
+                  <a
+                    href="mailto:info@hotelodisej.com"
+                    class="hover:text-white"
+                  >
                     umeshkumarmahto1305@gmail.com
                   </a>
                 </li>

@@ -4,7 +4,7 @@ import Routings from "./utils/Routings"
 import Navbar from "./Components/Navbar";
 import Landing from "./Components/Landing";
 import Work from "./Components/Work";
-import PlayReel from "./Components/playReel";
+import PlayReel from "./Components/PlayReel";
 import Images from "./Components/Images";
 import Spread from "./Components/Spread";
 import Footer from "./Components/Footer";
